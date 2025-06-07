@@ -1,4 +1,3 @@
-'import "./css/App.css";'
 import Home from "./pages/Home";
 import Mapify from "./pages/Mapify";
 import NavBar from "./components/NavBar";
